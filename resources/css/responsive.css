@@ -1,0 +1,71 @@
+@media only screen and (max-width: 1024px){
+    .row{
+        margin: 0 15px;
+    }
+    .main-nav{
+        display: none;
+    }
+    .hero-text-box{
+        width: 100%;
+    }
+    .client-photo{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .client-review{
+        width: 90%;
+        margin: 0;
+    }
+    .contact-section form{
+        width: 100%;
+        margin-left: 0;
+    }
+   
+}
+@media only screen and (max-width: 980px){
+    .span_1_of_4{
+        width: 49.2%;
+    }
+    .span_1_of_4{
+        margin-left: 0;
+    }
+    .skill-section .span_1_of_4{
+        text-align: center;
+    }
+    .portfolio-section .span_1_of_2{
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 480px){
+    .span_1_of_4{
+        width: 100%;
+    }
+    .contact-section p{
+        width: 100%;
+    }
+    .footer-section ul li a{
+        wdith: 100%;
+    }
+}
+@media only screen and (max-width: 360px){
+    .services-section p{
+        width: 100%;
+    }
+    .team-section p{
+        width: 100%;
+    }
+    .skill-section p{
+        width: 100%;
+    }
+    .testimonial-section .little-description{
+        width: 100%;
+    }
+    .span_1_of_2{
+        width: 100%;
+    }
+    h1{
+        font-size: 1.5rem;
+        text-align: center;
+    }
+}
